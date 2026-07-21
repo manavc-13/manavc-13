@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none" role="img" aria-label="GitHub statistics for manavc-13">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2DD4BF"/>
+      <stop offset="50%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#818CF8"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.85"/>
+      <stop offset="70%" stop-color="#ffffff" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1.6" cy="1.6" r="1.6" fill="#D5DDE6"/>
+    </pattern>
+    <mask id="dotmask"><rect width="1200" height="340" fill="url(#fade)"/></mask>
+    <clipPath id="card"><rect width="1200" height="340" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="340" fill="#FFFFFF"/>
+    <rect width="1200" height="340" fill="url(#dots)" mask="url(#dotmask)" opacity="0.8"/>
+    <ellipse cx="1050" cy="40" rx="340" ry="240" fill="url(#glow)"/>
+
+    <text x="44" y="56" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="13" letter-spacing="3.2" fill="#0F766E">GITHUB ACTIVITY</text>
+    <rect x="44" y="72" width="72" height="3" rx="1.5" fill="url(#accent)"/>
+
+    <text x="44.0" y="140" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="36" font-weight="700" letter-spacing="-1" fill="#0F172A">—</text>
+    <text x="44.0" y="164" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1.7" fill="#57606A">CONTRIBUTIONS</text>
+    <text x="266.4" y="140" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="36" font-weight="700" letter-spacing="-1" fill="#0F172A">—</text>
+    <text x="266.4" y="164" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1.7" fill="#57606A">COMMITS</text>
+    <text x="488.8" y="140" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="36" font-weight="700" letter-spacing="-1" fill="#0F172A">—</text>
+    <text x="488.8" y="164" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1.7" fill="#57606A">PULL REQUESTS</text>
+    <text x="711.2" y="140" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="36" font-weight="700" letter-spacing="-1" fill="#0F172A">5</text>
+    <text x="711.2" y="164" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1.7" fill="#57606A">REPOSITORIES</text>
+    <text x="933.6" y="140" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="36" font-weight="700" letter-spacing="-1" fill="#0F172A">2</text>
+    <text x="933.6" y="164" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1.7" fill="#57606A">FOLLOWERS</text>
+    <rect x="44" y="236" width="1112" height="10" rx="5.0" fill="#EAEEF2"/>
+    <clipPath id="bar"><rect x="44" y="236" width="1112" height="10" rx="5.0"/></clipPath>
+    <g clip-path="url(#bar)"><rect x="44.00" y="236" width="738.01" height="10" fill="#2DD4BF"/><rect x="782.01" y="236" width="208.61" height="10" fill="#38BDF8"/><rect x="990.61" y="236" width="85.08" height="10" fill="#818CF8"/><rect x="1075.70" y="236" width="47.06" height="10" fill="#F472B6"/><rect x="1122.76" y="236" width="32.06" height="10" fill="#FBBF24"/><rect x="1154.82" y="236" width="1.18" height="10" fill="#34D399"/></g>
+    <circle cx="48.0" cy="284" r="4" fill="#2DD4BF"/>
+    <text x="60.0" y="288" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#0F172A">TypeScript</text>
+    <text x="60.0" y="306" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" fill="#57606A">66.4%</text>
+    <circle cx="233.3" cy="284" r="4" fill="#38BDF8"/>
+    <text x="245.3" y="288" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#0F172A">Python</text>
+    <text x="245.3" y="306" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" fill="#57606A">18.8%</text>
+    <circle cx="418.7" cy="284" r="4" fill="#818CF8"/>
+    <text x="430.7" y="288" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#0F172A">JavaScript</text>
+    <text x="430.7" y="306" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" fill="#57606A">7.7%</text>
+    <circle cx="604.0" cy="284" r="4" fill="#F472B6"/>
+    <text x="616.0" y="288" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#0F172A">CSS</text>
+    <text x="616.0" y="306" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" fill="#57606A">4.2%</text>
+    <circle cx="789.3" cy="284" r="4" fill="#FBBF24"/>
+    <text x="801.3" y="288" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#0F172A">HTML</text>
+    <text x="801.3" y="306" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" fill="#57606A">2.9%</text>
+    <circle cx="974.7" cy="284" r="4" fill="#34D399"/>
+    <text x="986.7" y="288" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#0F172A">Dockerfile</text>
+    <text x="986.7" y="306" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="11" fill="#57606A">0.1%</text>
+
+    <text x="44" y="212" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="12" letter-spacing="2.6" fill="#57606A">TOP LANGUAGES</text>
+
+    <rect x="0.5" y="0.5" width="1199" height="339" rx="18" fill="none" stroke="#D8DEE4"/>
+  </g>
+</svg>

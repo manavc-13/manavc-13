@@ -1,137 +1,154 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Manav%20Choudhary&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20at%20the%20intersection%20of%20systems%2C%20intelligence%2C%20and%20biology&descAlignY=58&descFontSize=16&descColor=aaaaaa" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manavc-13/manavc-13/main/assets/header-dark.svg">
+  <img alt="Manav Choudhary — building at the intersection of systems, intelligence and biology" src="https://raw.githubusercontent.com/manavc-13/manavc-13/main/assets/header-light.svg" width="100%">
+</picture>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=00FFCC&center=true&vCenter=true&width=640&lines=Full-Stack+Engineer;ML+Researcher;Computational+Biology;Cybersecurity)](https://github.com/manavc-13)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=1000&color=2DD4BF&center=true&vCenter=true&width=620&height=40&lines=Full-Stack+Engineer;ML+Researcher;Computational+Biology;Cybersecurity)](https://manavc.vercel.app)
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FFCC?style=for-the-badge&logo=vercel&logoColor=black)](https://manavc.vercel.app)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manav-choudhary3133/)&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manavc.3103@gmail.com)&nbsp;
-[![Resume](https://img.shields.io/badge/Resume-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://manavc.vercel.app/resume/Manav_CV.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://manavc.vercel.app)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/manav-choudhary3133/)&nbsp;
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:manavc.3103@gmail.com)&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=0D1117)](https://manavc.vercel.app/resume/Manav_CV.pdf)
 
 </div>
 
-<br>
+<img src="https://raw.githubusercontent.com/manavc-13/manavc-13/main/assets/divider.svg" width="100%" alt="">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
+## &nbsp;About
 
-<br>
-
-<table border="0" cellspacing="0" cellpadding="0">
+<table>
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
-### About Me
+CS student at **BITS Pilani** and **KIIT University** *(dual degree, 2027)*.
 
-CS student at **BITS Pilani** + **KIIT University** *(Dual Degree, 2027)* — I build scalable web infrastructure, design ML pipelines, and publish research at the intersection of machine learning and biology.
+I build scalable web infrastructure, design ML pipelines, and publish research where machine learning meets molecular biology — currently focused on retrieval systems, data classification, and drug-discovery models.
 
-Currently: SWE Intern at **KIIT IQAC**, Cybersecurity Domain Lead at **GDG KIIT**, and published author at **IEEE AESPC 2025**.
+Open to research collaborations and backend/ML internships.
 
 </td>
-<td width="5%"></td>
-<td width="40%" valign="middle" align="center">
+<td width="4%"></td>
+<td width="38%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" />
+**Currently**
+
+`SWE Intern` &nbsp;·&nbsp; KIIT IQAC<br>
+`Domain Lead` &nbsp;·&nbsp; Cybersecurity, GDG KIIT<br>
+`Published` &nbsp;·&nbsp; IEEE AESPC 2025<br>
+`Exploring` &nbsp;·&nbsp; RAG systems, Go, protein ML
 
 </td>
 </tr>
 </table>
 
-<br>
+<img src="https://raw.githubusercontent.com/manavc-13/manavc-13/main/assets/divider.svg" width="100%" alt="">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
-
-<br>
-
-### Tech Stack
+## &nbsp;Toolkit
 
 <div align="center">
 
-**Languages**
+<sub>**LANGUAGES**</sub><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,python,ts,go,postgres&theme=dark">
+  <img src="https://skillicons.dev/icons?i=cpp,python,ts,go,postgres&theme=light" alt="C++, Python, TypeScript, Go, SQL">
+</picture>
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)&nbsp;
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<sub>**STACK**</sub><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,fastapi,nodejs,tailwind&theme=dark">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,nodejs,tailwind&theme=light" alt="Next.js, React, FastAPI, Node.js, Tailwind CSS">
+</picture>
 
-<br>
-
-**Stack**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)&nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-<br>
-
-**Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=FCC624)&nbsp;
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)&nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<sub>**INFRASTRUCTURE**</sub><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,linux,redis,aws,git&theme=dark">
+  <img src="https://skillicons.dev/icons?i=docker,linux,redis,aws,git&theme=light" alt="Docker, Linux, Redis, AWS, Git">
+</picture>
 
 </div>
 
-<br>
+<img src="https://raw.githubusercontent.com/manavc-13/manavc-13/main/assets/divider.svg" width="100%" alt="">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
+## &nbsp;Selected Work
 
-<br>
-
-### Selected Work
-
-<table border="0" cellspacing="0" cellpadding="8">
+<table>
 <tr>
-<td width="38%"><strong><a href="https://github.com/manavc-13/kortex">Kortex</a></strong></td>
-<td>Enterprise data classification + RAG pipeline — 768-dim embeddings, FastAPI · Next.js · PostgreSQL · AWS S3</td>
+<td width="30%" valign="top">
+
+**[Kortex](https://github.com/manavc-13/kortex)**<br>
+<sub>`FastAPI` `Next.js` `Postgres` `S3`</sub>
+
+</td>
+<td valign="top">Enterprise data classification and RAG pipeline built on 768-dimensional embeddings, with semantic search over heterogeneous document stores.</td>
 </tr>
+
 <tr>
-<td><strong><a href="https://github.com/manavc-13/iqac-website">IQAC Website</a></strong> &nbsp;<a href="https://iqac.kiit.ac.in">↗ Live</a></td>
-<td>Next.js 15 university portal migration — contributed to THE World Ranking improvement from 601–800 → 501–600 band</td>
+<td valign="top">
+
+**[IQAC Website](https://github.com/manavc-13/iqac-website)** · [↗ Live](https://iqac.kiit.ac.in)<br>
+<sub>`Next.js 15` `SSR`</sub>
+
+</td>
+<td valign="top">Full university portal migration. Contributed to KIIT's <em>THE</em> World Ranking improvement from the 601–800 band to 501–600.</td>
 </tr>
+
 <tr>
-<td><strong><a href="https://doi.org/10.1109/AESPC67542.2025.11326730">ML Research</a></strong> &nbsp;<code>IEEE 2025</code></td>
-<td>Phytochemical inhibitor identification for <em>P. aeruginosa</em> quorum sensing via ML — AESPC 2025</td>
+<td valign="top">
+
+**[ML Research](https://doi.org/10.1109/AESPC67542.2025.11326730)** · `IEEE 2025`<br>
+<sub>`scikit-learn` `RDKit`</sub>
+
+</td>
+<td valign="top">Phytochemical inhibitor identification for <em>P. aeruginosa</em> quorum sensing via machine learning. Presented at IEEE AESPC 2025.</td>
 </tr>
+
 <tr>
-<td colspan="2"><sub><a href="https://github.com/manavc-13/ResHelp-Tools">ResHelp-Tools</a> &nbsp;·&nbsp; <a href="https://github.com/manavc-13/KIIT-Mailer">KIIT-Mailer</a></sub></td>
+<td colspan="2"><sub>Also: <a href="https://github.com/manavc-13/ResHelp-Tools">ResHelp-Tools</a> &nbsp;·&nbsp; <a href="https://github.com/manavc-13/KIIT-Mailer">KIIT-Mailer</a></sub></td>
 </tr>
 </table>
 
-<br>
+<img src="https://raw.githubusercontent.com/manavc-13/manavc-13/main/assets/divider.svg" width="100%" alt="">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" />
-
-<br>
-
-### GitHub Stats
+## &nbsp;Activity
 
 <div align="center">
 
-<table border="0" cellspacing="8" cellpadding="0">
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=manavc-13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFCC&icon_color=00FFCC" /></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=manavc-13&theme=tokyonight&hide_border=true&background=0d1117&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC" /></td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavc-13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00FFCC&langs_count=6" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manavc-13/manavc-13/main/assets/stats-dark.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/manavc-13/manavc-13/main/assets/stats-light.svg" alt="GitHub statistics">
+</picture>
 
 <br><br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=manavc-13&theme=react-dark&hide_border=true&bg_color=0d1117&color=00FFCC&line=00FFCC&point=ffffff&area=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=manavc-13&hide_border=true&border_radius=12&background=0D1117&stroke=21262D&ring=2DD4BF&fire=38BDF8&currStreakLabel=2DD4BF&sideLabels=8B949E&dates=6E7681&currStreakNum=F0F6FC&sideNums=F0F6FC">
+  <img height="180" src="https://streak-stats.demolab.com?user=manavc-13&hide_border=true&border_radius=12&background=FFFFFF&stroke=D8DEE4&ring=0D9488&fire=0284C7&currStreakLabel=0D9488&sideLabels=57606A&dates=8B949E&currStreakNum=0F172A&sideNums=0F172A" alt="Contribution streak">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=manavc-13&hide_border=true&radius=12&bg_color=0D1117&color=8B949E&line=2DD4BF&point=38BDF8&area=true&area_color=2DD4BF">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=manavc-13&hide_border=true&radius=12&bg_color=FFFFFF&color=57606A&line=0D9488&point=0284C7&area=true&area_color=0D9488" alt="Contribution activity graph">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manavc-13/manavc-13/output/snake-dark.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/manavc-13/manavc-13/output/snake-light.svg" alt="Contribution snake animation">
+</picture>
 
 </div>
 
-<br>
+<img src="https://raw.githubusercontent.com/manavc-13/manavc-13/main/assets/divider.svg" width="100%" alt="">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+<div align="center">
+<sub>Thanks for stopping by &nbsp;·&nbsp; <a href="mailto:manavc.3103@gmail.com">let's build something</a></sub>
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=manavc-13&style=flat-square&color=2DD4BF&label=PROFILE+VIEWS" alt="Profile views">
+</div>
